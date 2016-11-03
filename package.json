@@ -19,13 +19,9 @@
   "engines": {
     "node": ">=0.10.1"
   },
+
   "files": [
     "dist",
     "LICENSE"
   ],
-  
-    "files": [
-      "css",
-      "fonts"
-    ]
 }
