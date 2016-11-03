@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-color-print",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "description": "Bootstrap 3.3.7 without JavaScript. The CSS is modified to allow color print",
   "version": "3.3.7",
   "keywords": [
     "css",
